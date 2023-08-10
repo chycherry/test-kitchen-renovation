@@ -1,60 +1,52 @@
-{\rtf1\ansi\ansicpg950\cocoartf2638
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 [\
-    \{\
-        "title": "Choosing the Perfect Appliances",\
-        "description": "Discover expert tips for selecting the right appliances for your kitchen renovation. From energy efficiency to aesthetics, make informed choices.",\
-        "image": "appliance.jpg"\
-    \},\
-    \{\
-        "title": "Creating an Open Kitchen Space",\
-        "description": "Learn how to effectively regulate an open kitchen layout. Explore design ideas, zoning techniques, and seamless integration of living and cooking areas.",\
-        "image": "open-kitchen.jpg"\
-    \},\
-    \{\
-        "title": "Innovative Kitchen Storage Solutions",\
-        "description": "Maximize space and efficiency with innovative storage ideas. Explore pull-out shelves, hidden compartments, and creative pantry designs.",\
-        "image": "storage.jpg"\
-    \},\
-    \{\
-        "title": "Eco-Friendly Kitchen Remodeling",\
-        "description": "Discover sustainable materials and practices for an eco-friendly kitchen renovation. From reclaimed wood to energy-efficient lighting, go green in style.",\
-        "image": "eco-friendly.jpg"\
-    \},\
-    \{\
-        "title": "Revitalizing Your Kitchen Space",\
-        "description": "Get inspired by transformative kitchen makeover ideas. Explore color palettes, countertop options, and layout adjustments for a fresh new look.",\
-        "image": "makeover.jpg"\
-    \},\
-    \{\
-        "title": "Mastering Kitchen Lighting",\
-        "description": "Learn the art of illuminating your kitchen. From ambient to task lighting, discover techniques to enhance functionality and create a cozy atmosphere.",\
-        "image": "lighting.jpg"\
-    \},\
-    \{\
-        "title": "The Beauty of Minimalist Design",\
-        "description": "Embrace minimalism in kitchen design. Explore clean lines, clutter-free spaces, and the art of incorporating essential elements for a chic and functional kitchen.",\
-        "image": "minimalist.jpg"\
-    \},\
-    \{\
-        "title": "Cooking-Friendly Kitchen Layouts",\
-        "description": "Optimize your kitchen layout for efficient cooking. Explore the triangle work zone, appliance placement, and ergonomic design for a chef-friendly space.",\
-        "image": "layout.jpg"\
-    \},\
-    \{\
-        "title": "Small Kitchen, Big Style",\
-        "description": "Discover ingenious ideas for small kitchen renovations. From space-saving storage to visual tricks, make the most of limited square footage.",\
-        "image": "small-kitchen.jpg"\
-    \},\
-    \{\
-        "title": "Color Palette and Material Harmony",\
-        "description": "Explore the art of selecting colors and materials for a harmonious kitchen. From contrasting accents to complementary textures, design a visually pleasing space.",\
-        "image": "color-material.jpg"\
-    \}\
-]\
-}
+[
+    {
+        "title": "Choosing the Perfect Appliances",
+        "description": "Discover expert tips for selecting the right appliances for your kitchen renovation. From energy efficiency to aesthetics, make informed choices.",
+        "image": "appliance.jpg"
+    },
+    {
+        "title": "Creating an Open Kitchen Space",
+        "description": "Learn how to effectively regulate an open kitchen layout. Explore design ideas, zoning techniques, and seamless integration of living and cooking areas.",
+        "image": "open-kitchen.jpg"
+    },
+    {
+        "title": "Innovative Kitchen Storage Solutions",
+        "description": "Maximize space and efficiency with innovative storage ideas. Explore pull-out shelves, hidden compartments, and creative pantry designs.",
+        "image": "storage.jpg"
+    },
+    {
+        "title": "Eco-Friendly Kitchen Remodeling",
+        "description": "Discover sustainable materials and practices for an eco-friendly kitchen renovation. From reclaimed wood to energy-efficient lighting, go green in style.",
+        "image": "eco-friendly.jpg"
+    },
+    {
+        "title": "Revitalizing Your Kitchen Space",
+        "description": "Get inspired by transformative kitchen makeover ideas. Explore color palettes, countertop options, and layout adjustments for a fresh new look.",
+        "image": "makeover.jpg"
+    },
+    {
+        "title": "Mastering Kitchen Lighting",
+        "description": "Learn the art of illuminating your kitchen. From ambient to task lighting, discover techniques to enhance functionality and create a cozy atmosphere.",
+        "image": "lighting.jpg"
+    },
+    {
+        "title": "The Beauty of Minimalist Design",
+        "description": "Embrace minimalism in kitchen design. Explore clean lines, clutter-free spaces, and the art of incorporating essential elements for a chic and functional kitchen.",
+        "image": "minimalist.jpg"
+    },
+    {
+        "title": "Cooking-Friendly Kitchen Layouts",
+        "description": "Optimize your kitchen layout for efficient cooking. Explore the triangle work zone, appliance placement, and ergonomic design for a chef-friendly space.",
+        "image": "layout.jpg"
+    },
+    {
+        "title": "Small Kitchen, Big Style",
+        "description": "Discover ingenious ideas for small kitchen renovations. From space-saving storage to visual tricks, make the most of limited square footage.",
+        "image": "small-kitchen.jpg"
+    },
+    {
+        "title": "Color Palette and Material Harmony",
+        "description": "Explore the art of selecting colors and materials for a harmonious kitchen. From contrasting accents to complementary textures, design a visually pleasing space.",
+        "image": "color-material.jpg"
+    }
+]
