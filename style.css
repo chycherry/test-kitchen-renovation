@@ -37,29 +37,9 @@ header {
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 20px;
-}
-
-.card h2 {
-    font-size: 18px;
-    margin-bottom: 10px;
-}
-
-.card p {
-    font-size: 14px;
-}
-
-@media (max-width: 768px) {
-    .card-container {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-.card {
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 20px;
     display: flex;
     flex-direction: column;
+    height: 100%; /* Ensures cards take full height of their container */
 }
 
 .card-image {
@@ -77,33 +57,20 @@ header {
     justify-content: space-between;
     padding: 10px 0;
 }
-.card-content {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    padding: 10px 0;
-}
-
-.card-content h2 {
-    margin-bottom: 5px; /* Adjust the margin between title and description */
-}
 
 
-.card {
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 15px; /* Adjust padding for a more compact card */
-    display: flex;
-    flex-direction: column;
-}
 
 .card h2 {
-    font-size: 16px; /* Reduce the font size for the title */
-    margin-bottom: 5px;
+    font-size: 16px; /* Adjust title font size */
+    margin-bottom: 5px; /* Decrease spacing between title and description */
 }
 
 .card p {
-    font-size: 14px; /* Reduce the font size for the description */
-    margin-bottom: 10px;
+    font-size: 12px; /* Adjust description font size */
+}
+
+@media (max-width: 768px) {
+    .card-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
