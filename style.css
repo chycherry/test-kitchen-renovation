@@ -87,3 +87,23 @@ header {
 .card-content h2 {
     margin-bottom: 5px; /* Adjust the margin between title and description */
 }
+
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px; /* Adjust padding for a more compact card */
+    display: flex;
+    flex-direction: column;
+}
+
+.card h2 {
+    font-size: 16px; /* Reduce the font size for the title */
+    margin-bottom: 5px;
+}
+
+.card p {
+    font-size: 14px; /* Reduce the font size for the description */
+    margin-bottom: 10px;
+}
